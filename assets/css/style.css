@@ -123,6 +123,7 @@ header {
     display: block;
     width: 60%;
     max-width: 700px;
+    border: 15px solid white;
 }
 
 /* Add Animation */
